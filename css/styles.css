@@ -4,16 +4,48 @@
   font-family: cursive;
   color: firebrick;
   background-color: honeydew;
+  text-align: center;
 }
 
 .funky {
   font-style: italic;
   color: navy;
+  text-align: center;
 }
 
 .centered-image {
   float: left;
-  width: 50%;
+  width: 60%;
   margin: auto;
   height: auto;
+}
+
+.sidebar1 {
+  width: 40%;
+  padding: 20px;
+  border:black;
+  border-width: 5px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  float: left;
+  background-color: snow;
+  text-align: left;
+}
+
+.sidebar2 {
+  width: 40%;
+  padding: 20px;
+  border:black;
+  border-width: 5px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  float: left;
+  background-color: snow;
+  text-align: left;
+  font-size: 13px;
+}
+
+.column {
+  width: 500px;
+  float: left;
 }
