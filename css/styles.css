@@ -23,8 +23,8 @@
 .sidebar1 {
   width: 40%;
   padding: 20px;
-  border:black;
-  border-width: 5px;
+  border: solid black;
+  border-width: 2px;
   margin-bottom: 10px;
   box-sizing: border-box;
   float: left;
@@ -34,18 +34,22 @@
 
 .sidebar2 {
   width: 40%;
-  padding: 20px;
-  border:black;
-  border-width: 5px;
+  padding: 10px;
+  border:solid black;
+  border-width: 2px;
   margin-bottom: 10px;
   box-sizing: border-box;
   float: left;
   background-color: snow;
   text-align: left;
-  font-size: 13px;
+  font-size: 14px;
 }
 
 .column {
   width: 500px;
   float: left;
+}
+
+body {
+  background-color: lavender;
 }
