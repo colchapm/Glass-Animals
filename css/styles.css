@@ -1,0 +1,19 @@
+.groovy {
+  font-size: 38px;
+  font-weight: bold;
+  font-family: cursive;
+  color: firebrick;
+  background-color: honeydew;
+}
+
+.funky {
+  font-style: italic;
+  color: navy;
+}
+
+.centered-image {
+  float: left;
+  width: 50%;
+  margin: auto;
+  height: auto;
+}
